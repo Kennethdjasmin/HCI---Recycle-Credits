@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tribute to Steve Jobs</title>
+    </head>
+  <body>
+    <img src="">
+      <h1 class="title">Tribute to Steve Job </h1>
+    <h3> Description </h3>
+      <p> Steve Jobs was a charismatic pioneer of the personal computer era. With Steve Wozniak, Jobs founded Apple Inc. in 1976 and transformed the company into a world leader in telecommunications. Widely considered a visionary and a genius, he oversaw the launch of such revolutionary products as the iPod and the iPhone. </p>
+    <h3> Why we admire him? </h3>
+        <p>
+      His commitment to one purpose, single-mindedness, and ability to follow his heart beyond the established stereotypes are the main qualities I most admire about Steve Jobs.
+    </p>
+    <h3> Accomplishment </h3>
+  </body>
+</html>
