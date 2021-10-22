@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>A tribute to Steve Jobs</title>
-  </head>
-  <body style="background-color:#f2f2f2;">
     <h1 class="title">A tribute to Steve Jobs </h1>
+  </head>
+  <body style="background-color:#ffffff;">
     <div class="contents">
       <img src="https://cdn.ragan.com/wp-content/uploads/2017/06/Steve-Jobs_1955-2011_thick-border-1.jpg">
-      <p>Here's our idol! Handsome no? XD</p>
+      <p>
+        <li>
+          Note: Here's our idol! Handsome no? XD
+        </li>
+      </p>
     </div>
     <h3> Who is Steve Jobs? </h3>
     <p> 
