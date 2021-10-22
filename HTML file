@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <h1 class="title">A tribute to Steve Jobs </h1>
-  </head>
+  <div class="header">
+    <head>
+      <meta charset="utf-8">
+      <h1 class="title">A tribute to Steve Jobs </h1>
+      <title>To Steve Jobs</title>
+    </head>
+  </div>
   <body style="background-color:#ffffff;">
     <div class="contents">
       <img src="https://cdn.ragan.com/wp-content/uploads/2017/06/Steve-Jobs_1955-2011_thick-border-1.jpg">
