@@ -1,17 +1,31 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Tribute to Steve Jobs</title>
-    </head>
+    <title>A tribute to Steve Jobs</title>
+  </head>
   <body>
-    <img src="">
-      <h1 class="title">Tribute to Steve Job </h1>
-    <h3> Description </h3>
+    <img src="https://cdn.ragan.com/wp-content/uploads/2017/06/Steve-Jobs_1955-2011_thick-border-1.jpg">
+      <h1 class="title">A tribute to Steve Jobs </h1>
+    <h3> Who is Steve Jobs? </h3>
       <p> Steve Jobs was a charismatic pioneer of the personal computer era. With Steve Wozniak, Jobs founded Apple Inc. in 1976 and transformed the company into a world leader in telecommunications. Widely considered a visionary and a genius, he oversaw the launch of such revolutionary products as the iPod and the iPhone. </p>
     <h3> Why we admire him? </h3>
         <p>
       His commitment to one purpose, single-mindedness, and ability to follow his heart beyond the established stereotypes are the main qualities I most admire about Steve Jobs.
     </p>
-    <h3> Accomplishment </h3>
+    <h3> His accomplishments </h3>
+        <p>
+          Heres a list of what he's accomplished so far!
+          <ul>
+            <li>Igniting the personal computer revolution</li>
+          <li>Introducing the mouse and graphical user interface.</li>
+          <li>Bringing portable music players to the masses.</li>
+          <li>Revolutionizing the sale of music</li>
+          <li>Shepherding the age of computer animation</li>
+          <li>Opening Apple stores</li>
+          <li>Making personal computers stylish</li>
+          <li>Launching the smartphone revolution</li>
+          <li>Changing how software applications are distributed</li>
+    </ul>
+    </p>
   </body>
 </html>
