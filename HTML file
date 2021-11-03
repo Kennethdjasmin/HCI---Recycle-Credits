@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <title>Pizza Express</title>
+  <meta charset="UTF-8">
+  <style>
+    body {font-family: Arial;}
+    h1 {
+      color: white;
+      font-family: "Cambria";
+      border: 5px solid black;
+      border-radius: 20px;
+      letter-spacing: 5px;
+      text-align: center;
+      font-size: 75px;
+      background: linear-gradient(to left, #ff0000 0%, #ff9933 100%);
+    }
+    h4 {
+      font-size: 30px;
+      color: white;
+      font-family: "Arial";
+      border: 3px yellow;
+      border-radius: 5px;
+      text-align: center;
+      width: 100px;
+      height: 20px;
+      font-size: 15px;
+      background: linear-gradient(to top right, #ff9900 0%, #ffcc99 100%);
+      margin-left: 15%;
+    }
+    h3{
+      border-bottom: 1px;
+      
+    }
+    p{
+      text-align: justify;
+    }
+    a{
+      color: black;
+      font-family: "Cambria";
+      border-radius: 20px;
+      letter-spacing: 5px;
+      text-align: center;
+      font-size: 40px;
+    }
+  </style>
+
+  <div class="">
+    <h1 style="font-style:italic;">Pizza Express</h1>
+    <div class="">
+      <a href="" class=""><p style="text-align:center">About </a>
+      <a href="" class="">Menu </a>
+      <a href="" class="">Contact </a>
+  </div>
+</div>
+
+  <div class="">
+     <img src="https://www.manusmenu.com/wp-content/uploads/2016/02/1-Tuna-and-Onion-Pizza-5-1-of-1.jpg" class="center" alt="Table Setting" width="1000" height="667">
+    </div>
+
+
+  <body>
+    <h3>
+      about
+    </h3>
+    <p>
+      Our home made pizza are served hot and fresh when you eat it straight out of the oven. Our pizza contains our secret ingredient that has been passed down through generations. We can assure you that you'll experience high quality dining in our cozy Restaurant
+    </p>
+    <h3>
+      Menu - Build-A-Pizza
+    </h3>
+    <div>
+    <p style="float: right; margin-right: 25%;"><img src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/06/11/3650390209.jpg"  height="300px" width="450px" border="1px"></p>
+    </div>
+    <h4>
+      Onion
+    </h4>
+    <h4>
+      Pepperoni
+    </h4>
+     <h4>
+      Cheese
+    </h4>
+     <h4>
+      Chicken
+    </h4>
+     <h4>
+      Pepper
+    </h4>
+     <h4>
+      Tuna
+    </h4>
+    <h4>
+      Mushroom
+    </h4>
+    <h4>
+      Sausage
+    </h4>
+    <h4>
+      Black Olives
+    </h4>
+    <h3>
+      Contacts
+    </h3>
+    <p>
+      pizza.express@gmail.com
+    </p>
+    <p>
+      081111111111
+    </p>
+  </body>
+</html>
